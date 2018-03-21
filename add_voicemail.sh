@@ -1,5 +1,5 @@
 #!/bin/bash
-audiofile="stream.part3.wav"
+audiofile="en-US_Broadband_sample1.wav"
 mailbox=$1
 voicemail=$2
 
